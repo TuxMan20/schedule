@@ -4,5 +4,6 @@
 <p>You will need to change the url and the tags to suit your needs.</p>
 
 <p>Modules you need:<br>
-  BeautifulSoup4<br>
-  unicodecsv<br></p>
+  <ul>
+  <li>&nbsp;BeautifulSoup4</li><br>
+  <li>&nbsp;unicodecsv</li><br></ul></p>
