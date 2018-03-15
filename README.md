@@ -1,8 +1,8 @@
 # schedule
-Python 2.7 script to parse and export a schedule from a website to a .csv file
+<p>Python 2.7 script to parse and export a schedule from a website to a .csv file</p>
 
-You will need to change the url and the tags to suit your needs.
+<p>You will need to change the url and the tags to suit your needs.</p>
 
-Modules you need:
-  BeautifulSoup4
-  unicodecsv
+<p>Modules you need:<br>
+  BeautifulSoup4<br>
+  unicodecsv<br></p>
